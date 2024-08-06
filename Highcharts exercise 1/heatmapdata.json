@@ -1,0 +1,1652 @@
+[
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Extreme heat",
+   "Percentage": 58.21635
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Heavy precipitation",
+   "Percentage": 35.17754
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Windstorms",
+   "Percentage": 25.43353
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Extreme cold",
+   "Percentage": 22.95623
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Drought",
+   "Percentage": 30.55326
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Flooding",
+   "Percentage": 28.07597
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Wildfires",
+   "Percentage": 28.654
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Hurricanes",
+   "Percentage": 18.1668
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Earthquakes",
+   "Percentage": 15.60694
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Landslides",
+   "Percentage": 14.20314
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Australia",
+   "Sector": "Tornadoes",
+   "Percentage": 13.2948
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Extreme heat",
+   "Percentage": 45.16928
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Heavy precipitation",
+   "Percentage": 45.33443
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Windstorms",
+   "Percentage": 36.41618
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Extreme cold",
+   "Percentage": 45.58216
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Drought",
+   "Percentage": 25.68126
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Flooding",
+   "Percentage": 25.26837
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Wildfires",
+   "Percentage": 36.91164
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Hurricanes",
+   "Percentage": 17.42362
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Earthquakes",
+   "Percentage": 15.0289
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Landslides",
+   "Percentage": 15.19405
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Canada",
+   "Sector": "Tornadoes",
+   "Percentage": 16.4327
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Extreme heat",
+   "Percentage": 39.32399
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Heavy precipitation",
+   "Percentage": 46.41385
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Windstorms",
+   "Percentage": 41.71476
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Extreme cold",
+   "Percentage": 36.35614
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Drought",
+   "Percentage": 33.30585
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Flooding",
+   "Percentage": 34.29514
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Wildfires",
+   "Percentage": 30.17312
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Hurricanes",
+   "Percentage": 36.85078
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Earthquakes",
+   "Percentage": 31.65705
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Landslides",
+   "Percentage": 27.12284
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "China",
+   "Sector": "Tornadoes",
+   "Percentage": 29.76092
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Extreme heat",
+   "Percentage": 73.63057
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Heavy precipitation",
+   "Percentage": 37.70701
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Windstorms",
+   "Percentage": 27.13376
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Extreme cold",
+   "Percentage": 26.49682
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Drought",
+   "Percentage": 55.92357
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Flooding",
+   "Percentage": 28.53503
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Wildfires",
+   "Percentage": 48.40764
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Hurricanes",
+   "Percentage": 18.34395
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Earthquakes",
+   "Percentage": 23.69427
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Landslides",
+   "Percentage": 31.71975
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Colombia",
+   "Sector": "Tornadoes",
+   "Percentage": 17.07006
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Extreme heat",
+   "Percentage": 64.94067
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Heavy precipitation",
+   "Percentage": 37.43258
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Windstorms",
+   "Percentage": 28.80259
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Extreme cold",
+   "Percentage": 28.37109
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Drought",
+   "Percentage": 39.9137
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Flooding",
+   "Percentage": 26.96872
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Wildfires",
+   "Percentage": 27.40022
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Hurricanes",
+   "Percentage": 21.35922
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Earthquakes",
+   "Percentage": 26.42934
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Landslides",
+   "Percentage": 24.91909
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Costa Rica",
+   "Sector": "Tornadoes",
+   "Percentage": 18.55448
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Extreme heat",
+   "Percentage": 57.02411
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Heavy precipitation",
+   "Percentage": 51.37157
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Windstorms",
+   "Percentage": 41.06401
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Extreme cold",
+   "Percentage": 32.66833
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Drought",
+   "Percentage": 48.87781
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Flooding",
+   "Percentage": 33.25021
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Wildfires",
+   "Percentage": 28.09643
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Hurricanes",
+   "Percentage": 22.02826
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Earthquakes",
+   "Percentage": 20.69825
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Landslides",
+   "Percentage": 23.35827
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "France",
+   "Sector": "Tornadoes",
+   "Percentage": 21.86201
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Extreme heat",
+   "Percentage": 34.66334
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Heavy precipitation",
+   "Percentage": 41.72901
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Windstorms",
+   "Percentage": 38.81962
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Extreme cold",
+   "Percentage": 22.11139
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Drought",
+   "Percentage": 23.10889
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Flooding",
+   "Percentage": 23.69077
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Wildfires",
+   "Percentage": 17.70574
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Hurricanes",
+   "Percentage": 16.95761
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Earthquakes",
+   "Percentage": 13.21696
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Landslides",
+   "Percentage": 12.96758
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Germany",
+   "Sector": "Tornadoes",
+   "Percentage": 12.96758
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Extreme heat",
+   "Percentage": 81.65138
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Heavy precipitation",
+   "Percentage": 73.89491
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Windstorms",
+   "Percentage": 65.97164
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Extreme cold",
+   "Percentage": 70.30859
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Drought",
+   "Percentage": 62.30192
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Flooding",
+   "Percentage": 67.80651
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Wildfires",
+   "Percentage": 56.96414
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Hurricanes",
+   "Percentage": 58.7156
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Earthquakes",
+   "Percentage": 61.21768
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Landslides",
+   "Percentage": 57.54796
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "India",
+   "Sector": "Tornadoes",
+   "Percentage": 55.04587
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Extreme heat",
+   "Percentage": 56.33333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Heavy precipitation",
+   "Percentage": 26.08333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Windstorms",
+   "Percentage": 27.75
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Extreme cold",
+   "Percentage": 25.66667
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Drought",
+   "Percentage": 10.83333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Flooding",
+   "Percentage": 11.75
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Wildfires",
+   "Percentage": 7.08333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Hurricanes",
+   "Percentage": 18.5
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Earthquakes",
+   "Percentage": 30.58333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Landslides",
+   "Percentage": 10.58333
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Japan",
+   "Sector": "Tornadoes",
+   "Percentage": 7.25
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Extreme heat",
+   "Percentage": 59.401
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Heavy precipitation",
+   "Percentage": 46.00666
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Windstorms",
+   "Percentage": 43.09484
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Extreme cold",
+   "Percentage": 46.58902
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Drought",
+   "Percentage": 38.93511
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Flooding",
+   "Percentage": 34.85857
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Wildfires",
+   "Percentage": 34.10982
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Hurricanes",
+   "Percentage": 34.85857
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Earthquakes",
+   "Percentage": 34.3594
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Landslides",
+   "Percentage": 31.94676
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "KSA",
+   "Sector": "Tornadoes",
+   "Percentage": 30.94842
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Extreme heat",
+   "Percentage": 70.17399
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Heavy precipitation",
+   "Percentage": 42.91632
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Windstorms",
+   "Percentage": 38.44242
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Extreme cold",
+   "Percentage": 45.56752
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Drought",
+   "Percentage": 56.08948
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Flooding",
+   "Percentage": 32.47722
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Wildfires",
+   "Percentage": 38.27672
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Hurricanes",
+   "Percentage": 32.47722
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Earthquakes",
+   "Percentage": 39.02237
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Landslides",
+   "Percentage": 29.74316
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Mexico",
+   "Sector": "Tornadoes",
+   "Percentage": 22.78376
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Extreme heat",
+   "Percentage": 50.49669
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Heavy precipitation",
+   "Percentage": 36.50662
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Windstorms",
+   "Percentage": 22.10265
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Extreme cold",
+   "Percentage": 23.26159
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Drought",
+   "Percentage": 24.50331
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Flooding",
+   "Percentage": 31.20861
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Wildfires",
+   "Percentage": 21.52318
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Hurricanes",
+   "Percentage": 20.03311
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Earthquakes",
+   "Percentage": 19.45364
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Landslides",
+   "Percentage": 19.86755
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Singapore",
+   "Sector": "Tornadoes",
+   "Percentage": 17.88079
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Extreme heat",
+   "Percentage": 68.46361
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Heavy precipitation",
+   "Percentage": 66.84636
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Windstorms",
+   "Percentage": 55.97484
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Extreme cold",
+   "Percentage": 56.96316
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Drought",
+   "Percentage": 49.14645
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Flooding",
+   "Percentage": 53.81851
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Wildfires",
+   "Percentage": 43.75562
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Hurricanes",
+   "Percentage": 48.69721
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Earthquakes",
+   "Percentage": 50.58401
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Landslides",
+   "Percentage": 44.2947
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UAE",
+   "Sector": "Tornadoes",
+   "Percentage": 43.48607
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Extreme heat",
+   "Percentage": 30.31301
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Heavy precipitation",
+   "Percentage": 42.42175
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Windstorms",
+   "Percentage": 30.14827
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Extreme cold",
+   "Percentage": 31.21911
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Drought",
+   "Percentage": 18.78089
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Flooding",
+   "Percentage": 25.53542
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Wildfires",
+   "Percentage": 16.30972
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Hurricanes",
+   "Percentage": 16.47446
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Earthquakes",
+   "Percentage": 15.07414
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Landslides",
+   "Percentage": 14.90939
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "UK",
+   "Sector": "Tornadoes",
+   "Percentage": 14.41516
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Extreme heat",
+   "Percentage": 46.60033
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Heavy precipitation",
+   "Percentage": 48.17579
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Windstorms",
+   "Percentage": 36.40133
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Extreme cold",
+   "Percentage": 38.72305
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Drought",
+   "Percentage": 34.16252
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Flooding",
+   "Percentage": 33.25041
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Wildfires",
+   "Percentage": 24.87562
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Hurricanes",
+   "Percentage": 26.78275
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Earthquakes",
+   "Percentage": 18.49088
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Landslides",
+   "Percentage": 16.58375
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "U.S.",
+   "Sector": "Tornadoes",
+   "Percentage": 26.534
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Extreme heat",
+   "Percentage": 55.08034
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Heavy precipitation",
+   "Percentage": 45.38204
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Windstorms",
+   "Percentage": 37.55057
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Extreme cold",
+   "Percentage": 37.12288
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Drought",
+   "Percentage": 36.20969
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Flooding",
+   "Percentage": 32.78812
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Wildfires",
+   "Percentage": 30.22772
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Hurricanes",
+   "Percentage": 27.35522
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Earthquakes",
+   "Percentage": 27.6442
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Landslides",
+   "Percentage": 24.71391
+ },
+ {
+   "Group": "Country",
+   "Subgroup": "Average",
+   "Sector": "Tornadoes",
+   "Percentage": 23.321
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Extreme heat",
+   "Percentage": 60.43447
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Heavy precipitation",
+   "Percentage": 49.39771
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Windstorms",
+   "Percentage": 41.37754
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Extreme cold",
+   "Percentage": 42.65417
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Drought",
+   "Percentage": 40.73922
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Flooding",
+   "Percentage": 37.40348
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Wildfires",
+   "Percentage": 35.18995
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Hurricanes",
+   "Percentage": 32.10131
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Earthquakes",
+   "Percentage": 33.00731
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Landslides",
+   "Percentage": 29.70246
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Urban",
+   "Sector": "Tornadoes",
+   "Percentage": 27.69484
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Extreme heat",
+   "Percentage": 47.81324
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Heavy precipitation",
+   "Percentage": 39.2632
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Windstorms",
+   "Percentage": 31.04807
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Extreme cold",
+   "Percentage": 30.02364
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Drought",
+   "Percentage": 27.71868
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Flooding",
+   "Percentage": 26.49724
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Wildfires",
+   "Percentage": 23.40426
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Hurricanes",
+   "Percentage": 21.90701
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Earthquakes",
+   "Percentage": 21.3948
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Landslides",
+   "Percentage": 18.18361
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Suburban",
+   "Sector": "Tornadoes",
+   "Percentage": 17.7108
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Extreme heat",
+   "Percentage": 49.06486
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Heavy precipitation",
+   "Percentage": 42.22045
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Windstorms",
+   "Percentage": 35.89335
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Extreme cold",
+   "Percentage": 30.08357
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Drought",
+   "Percentage": 35.85356
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Flooding",
+   "Percentage": 27.65619
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Wildfires",
+   "Percentage": 24.83088
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Hurricanes",
+   "Percentage": 20.01592
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Earthquakes",
+   "Percentage": 19.5384
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Landslides",
+   "Percentage": 18.62316
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Rural",
+   "Sector": "Tornadoes",
+   "Percentage": 17.74771
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Extreme heat",
+   "Percentage": 55.08034
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Heavy precipitation",
+   "Percentage": 45.38204
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Windstorms",
+   "Percentage": 37.55057
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Extreme cold",
+   "Percentage": 37.12288
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Drought",
+   "Percentage": 36.20969
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Flooding",
+   "Percentage": 32.78812
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Wildfires",
+   "Percentage": 30.22772
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Hurricanes",
+   "Percentage": 27.35522
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Earthquakes",
+   "Percentage": 27.6442
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Landslides",
+   "Percentage": 24.71391
+ },
+ {
+   "Group": "Density",
+   "Subgroup": "Average",
+   "Sector": "Tornadoes",
+   "Percentage": 23.321
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Extreme heat",
+   "Percentage": 61.44876
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Heavy precipitation",
+   "Percentage": 53.0742
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Windstorms",
+   "Percentage": 42.19081
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Extreme cold",
+   "Percentage": 43.60424
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Drought",
+   "Percentage": 36.85512
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Flooding",
+   "Percentage": 36.00707
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Wildfires",
+   "Percentage": 34.02827
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Hurricanes",
+   "Percentage": 29.75265
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Earthquakes",
+   "Percentage": 31.76678
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Landslides",
+   "Percentage": 28.16254
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen Z",
+   "Sector": "Tornadoes",
+   "Percentage": 25.33569
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Extreme heat",
+   "Percentage": 59.36787
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Heavy precipitation",
+   "Percentage": 49.82079
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Windstorms",
+   "Percentage": 40.66471
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Extreme cold",
+   "Percentage": 41.72369
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Drought",
+   "Percentage": 40.04562
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Flooding",
+   "Percentage": 36.8361
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Wildfires",
+   "Percentage": 33.69176
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Hurricanes",
+   "Percentage": 30.35191
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Earthquakes",
+   "Percentage": 30.71033
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Landslides",
+   "Percentage": 27.82665
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Millennial",
+   "Sector": "Tornadoes",
+   "Percentage": 25.87162
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Extreme heat",
+   "Percentage": 53.81996
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Heavy precipitation",
+   "Percentage": 42.94531
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Windstorms",
+   "Percentage": 36.34816
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Extreme cold",
+   "Percentage": 35.43307
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Drought",
+   "Percentage": 36.19919
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Flooding",
+   "Percentage": 31.81528
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Wildfires",
+   "Percentage": 29.11258
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Hurricanes",
+   "Percentage": 26.68653
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Earthquakes",
+   "Percentage": 26.9419
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Landslides",
+   "Percentage": 24.02639
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Gen X",
+   "Sector": "Tornadoes",
+   "Percentage": 22.74952
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Extreme heat",
+   "Percentage": 44.51169
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Heavy precipitation",
+   "Percentage": 35.04814
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Windstorms",
+   "Percentage": 30.23384
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Extreme cold",
+   "Percentage": 26.49243
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Drought",
+   "Percentage": 29.24347
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Flooding",
+   "Percentage": 24.70426
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Wildfires",
+   "Percentage": 22.86107
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Hurricanes",
+   "Percentage": 21.29298
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Earthquakes",
+   "Percentage": 20.16506
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Landslides",
+   "Percentage": 17.66162
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Baby Boomer+",
+   "Sector": "Tornadoes",
+   "Percentage": 18.18432
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Extreme heat",
+   "Percentage": 55.08034
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Heavy precipitation",
+   "Percentage": 45.38204
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Windstorms",
+   "Percentage": 37.55057
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Extreme cold",
+   "Percentage": 37.12288
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Drought",
+   "Percentage": 36.20969
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Flooding",
+   "Percentage": 32.78812
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Wildfires",
+   "Percentage": 30.22772
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Hurricanes",
+   "Percentage": 27.35522
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Earthquakes",
+   "Percentage": 27.6442
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Landslides",
+   "Percentage": 24.71391
+ },
+ {
+   "Group": "Generation",
+   "Subgroup": "Average",
+   "Sector": "Tornadoes",
+   "Percentage": 23.321
+ }
+]
